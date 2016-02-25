@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="POMpattern.GitDesktopTest.DownloadGitDesktopTest" /><Add Test="POMpattern.GitDesktopTest.DesktopGitInstallerHashCorrectnessTest" /></Playlist>

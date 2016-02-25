@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="POMpattern.BaseTest">
+    <Position X="1.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAQggIAAADAGAAAAIAAAAAAEAAgAAAAA=</HashCode>
+      <FileName>BaseClasses\BaseTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POMpattern.BasePage">
+    <Position X="10" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAABAAAAAAAAAAAAAAAAAAAgAAAAEAAAA=</HashCode>
+      <FileName>BaseClasses\BasePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POMpattern.MainPage">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAACACAAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PageObjects\MainPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POMpattern.SignUpPage">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PageObjects\SignUpPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POMpattern.SignInPage">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAFAAAAAAgAAAAAAEAAAAAAAAAAQAAAAgAAAgQA=</HashCode>
+      <FileName>PageObjects\SignInPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POMpattern.EnterprisePage">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PageObjects\EnterprisePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POMpattern.DesktopPage">
+    <Position X="12" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PageObjects\DesktopPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POMpattern.SignUpTest">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestScripts\SignUpTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POMpattern.SignInTest">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAICAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>TestScripts\SignInTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POMpattern.GitDesktopTest">
+    <Position X="0.5" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestScripts\GitDesktopTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POMpattern.GitEnterpriseTest">
+    <Position X="3" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestScripts\GitEnterpriseTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POMpattern.MainPageTest">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABQAAAAQAIAAAAAAAIAAAABAEAAAAAAAADAA=</HashCode>
+      <FileName>TestScripts\MainPageTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
